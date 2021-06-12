@@ -1,7 +1,12 @@
+# Some crossfeed 'cause why not
+
 Stage: pre-mix
-# 7.1 to 1.0
-# Copy: L=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR R=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR C=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR LFE=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR RL=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR RR=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR SL=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR SR=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR
-# 7.1 to 2.0
-# Copy: L=0.5*L+0.5*C+0.5*LFE+0.5*RL+0.5*SL R=0.5*R+0.5*C+0.5*LFE+0.5*RR+0.5*SR
+
 # 2.0 to 1.0
 Copy: L=0.5*L+0.5*R R=0.5*L+0.5*R
+
+# 7.1 to 1.0 (I use it with HeSuVi)
+# Copy: L=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR R=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR C=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR LFE=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR RL=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR RR=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR SL=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR SR=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR
+
+# 7.1 to 2.0 W.I.P. (not exactly crossfeed but I wanted to experiment with this conversion a bit)
+# Copy: L=0.5*L+0.5*C+0.5*LFE+0.5*RL+0.5*SL R=0.5*R+0.5*C+0.5*LFE+0.5*RR+0.5*SR
