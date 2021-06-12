@@ -1,9 +1,10 @@
 This is my config file for Equalizer APO. I tend to divide the configuration on subfiles that should be located in the same folder, but you can edit it to work on other directory.
 
 # Control
-# Include: files\volume 50.txt
+Include: files\volume 50.txt
 # Include: files\crossfeed.txt
-# Include: files\flat library.txt
+Include: files\flat library.txt
+Include: files\clone library.txt
 
 # Settings
 # GraphicEQ: 75 3; 200 0
