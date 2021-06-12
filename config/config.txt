@@ -1,0 +1,10 @@
+# Control
+# Include: X:\AutoEQ\Volume 50.txt
+# Include: X:\AutoEQ\crossfeed.txt
+# Include: X:\AutoEQ\Flat Library.txt
+# Include: X:\AutoEQ\Clone Library.txt
+# GraphicEQ: 75 6; 100 0
+# Preamp: 0 dB
+# External Software
+# Include: peace.txt
+# Include: HeSuVi\hesuvi.txt
