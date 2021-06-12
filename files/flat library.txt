@@ -6,8 +6,5 @@
 # Bose QuietComfort 35
 # Convolution: X:\AutoEQ\Bose QuietComfort 35\innerfidelity\Wired - Pasive\Bose QuietComfort 35 (wired, passive) minimum phase 48000Hz.wav
 
-# HyperX Cloud Stinger
-# Convolution: X:\AutoEQ\Bose QuietComfort 35\innerfidelity\Wired - Pasive\Bose QuietComfort 35 (wired, passive) minimum phase 48000Hz.wav
-
 # Logitech z623 (http://noaudiophile.com/DSP_Corrections/Logitech_z623.php)
 # Include: X:\AutoEQ\Logitech z623 (not AutoEQ)\Logitech_z623_1.txt
