@@ -1,10 +1,10 @@
 # Configurations to flatten the sound profile of various headphones/speakers. Most use AutoEQ's data.
 
 # HyperX Cloud Alpha
-# Convolution: HyperX Cloud Alpha\oratory1990\HyperX Cloud Alpha minimum phase 48000Hz.wav
+# Convolution: ..\EQs\HyperX Cloud Alpha\oratory1990\HyperX Cloud Alpha minimum phase 48000Hz.wav
 
 # Bose QuietComfort 35
-# Convolution: X:\AutoEQ\Bose QuietComfort 35\innerfidelity\Wired - Pasive\Bose QuietComfort 35 (wired, passive) minimum phase 48000Hz.wav
+# Convolution: ..\EQs\Bose QuietComfort 35\innerfidelity\Wired - Pasive\Bose QuietComfort 35 (wired, passive) minimum phase 48000Hz.wav
 
 # Logitech z623 (http://noaudiophile.com/DSP_Corrections/Logitech_z623.php)
-# Include: X:\AutoEQ\Logitech z623 (not AutoEQ)\Logitech_z623_1.txt
+# Include: ..\EQs\Logitech z623\Logitech_z623_1.txt
