@@ -3,7 +3,7 @@
 Stage: pre-mix
 
 # 2.0 to 1.0
-Copy: L=0.5*L+0.5*R R=0.5*L+0.5*R
+# Copy: L=0.5*L+0.5*R R=0.5*L+0.5*R
 
 # 7.1 to 1.0 (I use it with HeSuVi)
 # Copy: L=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR R=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR C=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR LFE=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR RL=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR RR=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR SL=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR SR=0.5*L+0.5*R+0.5*C+0.5*LFE+0.5*RL+0.5*RR+0.5*SL+0.5*SR
