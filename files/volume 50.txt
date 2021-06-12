@@ -1,5 +1,6 @@
 # Windows 100% volume hurts my ears (too loud), but I don't want to use the slider below 50% mainly for precision reasons.
 # This file fixes that by setting the volume to 50% in dB value
 # A stupid solution, but one I like :D
+
 # Stage: pre-mix
 # Preamp: -10.3 dB
