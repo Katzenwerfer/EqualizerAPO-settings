@@ -2,5 +2,5 @@
 # This file fixes that by setting the volume to 50% in dB value
 # A stupid solution, but one I like :D
 
-Stage: pre-mix
-Preamp: -10.3 dB
+# Stage: pre-mix
+# Preamp: -10.3 dB
