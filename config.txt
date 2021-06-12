@@ -1,10 +1,14 @@
+This is my config file for Equalizer APO. I tend to divide the configuration on subfiles that should be located in the same folder, but you can edit it to work on other directory.
+
 # Control
-Include: X:\AutoEQ\Volume 50.txt
-# Include: X:\AutoEQ\crossfeed.txt
-Include: X:\AutoEQ\Flat Library.txt
-# Include: X:\AutoEQ\Clone Library.txt
+# Include: Files\Volume 50.txt
+# Include: Files\crossfeed.txt
+# Include: Files\Flat Library.txt
+
+# Settings
 # GraphicEQ: 75 3; 200 0
-# Preamp: -11.2 dB
+# Preamp: 0 dB
+
 # External Software
 # Include: peace.txt
 # Include: HeSuVi\hesuvi.txt
