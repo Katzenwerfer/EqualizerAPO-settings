@@ -1,3 +1,5 @@
+# NoAudiophile DSP correction inverted
+
 Preamp: 0.0 dB
 Filter: ON PK Fc 30 Hz Gain -3.7 dB Q 2.5
 Filter: ON PK Fc 60 Hz Gain 12 dB Q 1
