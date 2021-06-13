@@ -1,3 +1,5 @@
+# I don't know the exact source of this one, I just know I got it from reddit
+
 Preamp: 0 dB
 Filter: ON PK Fc 30 Hz Gain 4 dB Q 2.5
 Filter: ON PK Fc 60 Hz Gain -10 dB Q 1
