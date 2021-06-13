@@ -31,14 +31,14 @@ I use HeSuVi in conjunction with HiFi Virtual Cable, ASIO Bridge and ASIO4ALL
 
 # Some links to download the stuff idk
 
-[Equalizer APO](https://sourceforge.net/projects/equalizerapo/ "Equalizer APO's SourceForge Page")
+[Equalizer APO](https://sourceforge.net/projects/equalizerapo/)
 
-[Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/ "Peace's SourceForge page")
+[Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/)
 
-[HeSuVi](https://sourceforge.net/projects/hesuvi/ "HeSuVi's SourceForge page")
+[HeSuVi](https://sourceforge.net/projects/hesuvi/)
 
-[Hi-Fi Virtual Cable](https://vb-audio.com/Cable/#:~:text=HiFiCableAsioBridgeSetup_v1007.zip Link to the virtual cable and ASIO Bridge)
+[Hi-Fi Virtual Cable](https://vb-audio.com/Cable/#:~:text=HiFiCableAsioBridgeSetup_v1007.zip)
 
-[ASIO4ALL](https://www.asio4all.org/ ASIO4ALL's main site)
+[ASIO4ALL](https://www.asio4all.org/)
 
-[How to setup the Hi-Fi Cable and ASIO4ALL to work with HeSuVi](https://sourceforge.net/p/hesuvi/discussion/general/thread/ce7c354dd7/ Easy to follow instructions)
+[How to setup the Hi-Fi Cable and ASIO4ALL to work with HeSuVi](https://sourceforge.net/p/hesuvi/discussion/general/thread/ce7c354dd7/)
