@@ -10,4 +10,4 @@
 # Include: ..\EQs\Logitech z623\Logitech_z623_1.txt
 
 # Bose SoundLink Color II (https://www.rtings.com/speaker/0-8/graph#6977/4553) (not precise)
-Include: ..\EQs\Bose SoundLink Color II\BSLCII.txt
+# Include: ..\EQs\Bose SoundLink Color II\BSLCII.txt
