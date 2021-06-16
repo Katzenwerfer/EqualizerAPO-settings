@@ -1,7 +1,7 @@
 # Configurations to imitate the sound profile of various headphones/speakers. Most use AutoEQ's data.
 # Why?...well I'm fucking bored
 
-# Parametric EQ tends to generate weird noise in pre-mix
+# Parametric EQ and convolution tend to generate weird noise in pre-mix
 # Stage: post-mix
 
 # Turtle Beach Elite Pro 2
