@@ -1,6 +1,6 @@
 # Modify the L and R volume balance
 
-# Changing the dB value of separated channels tend to only work in post
+# Changing the dB value of separated channels tend to only work in post-mix
 # Stage: post-mix
 
 # Channel: L
