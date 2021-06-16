@@ -6,4 +6,4 @@
 # Channel: L
 # Preamp: 0 dB
 # Channel: R
-# Preamp: -0.7 dB
+# Preamp: 0 dB
