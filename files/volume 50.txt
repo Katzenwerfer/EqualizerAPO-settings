@@ -2,5 +2,8 @@
 # This file fixes that by setting the volume to 50% in dB value
 # A stupid solution, but one I like :D
 
-# Stage: pre-mix
+# Similar to the crossfeed one. Some times it works on pre-mix and some times it doesn't
+# Leave in post-mix just in case
+# Stage: post-mix
+
 # Preamp: -10.3 dB
