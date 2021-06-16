@@ -2,6 +2,7 @@
 My settings for Equalizer APO 
 
 Most subfiles have everything disabled, so you gotta enable them first
+Also, some surround solutions like DTS:X kinda mess with the pre-mix stage, so make sure to change the processing stage to post-mix when using them. 
 
 # Peace usage
 
