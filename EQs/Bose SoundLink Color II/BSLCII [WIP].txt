@@ -1,0 +1,11 @@
+# This speaker has a pretty bad frequency response, so to compensate I only reduced the max peak gain by half or otherwise it becomes basically mute
+# I also don't recommend opening this file in the Equalizer APO GUI since it will round up all gains
+# Data gathered from: https://www.rtings.com/speaker/0-8/graph#6977/4553
+
+# GraphicEQ: 20 20.091; 20.291 20.643; 20.586 21.305; 20.885 21.965; 21.189 22.468; 21.497 22.681; 21.81 22.654; 22.127 22.551; 22.449 22.447; 22.776 22.481; 23.107 22.57; 23.443 22.655; 23.784 22.651; 24.13 22.539; 24.481 22.372; 24.837 22.281; 25.198 22.385; 25.565 22.762; 25.937 23.338; 26.314 23.898; 26.697 24.165; 27.085 23.737; 27.085 23.737; 27.479 22.518; 27.879 20.692; 28.284 18.838; 28.696 17.429; 29.113 16.859; 29.537 17.264; 29.966 18.633; 30.402 20.733; 30.844 23.061; 31.293 24.944; 31.748 25.873; 32.21 25.638; 32.678 24.31; 33.154 22.221; 33.636 19.923; 34.125 18.125; 34.621 17.372; 35.125 17.87; 35.636 19.541; 36.154 21.884; 36.68 24.173; 37.214 25.76; 37.755 26.488; 38.304 26.717; 38.861 26.885; 39.427 27.252; 40 27.787; 
+
+# Half peak gain reducition
+# Preamp: -17.1 dB
+
+# Full peak gain reduction
+# Preamp: -34.2 dB
