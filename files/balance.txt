@@ -1,8 +1,12 @@
 # Modify the L and R volume balance
 
-# Changing the dB value of separated channels tend to only work in post-mix
+# Changing the dB value of separated channels tend to only work in post
 # Stage: post-mix
 
+# Copy channel balance
+# Copy: L=1*L R=1*R
+
+# Preamp balance
 # Channel: L
 # Preamp: 0 dB
 # Channel: R
