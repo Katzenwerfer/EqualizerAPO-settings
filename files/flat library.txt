@@ -9,6 +9,12 @@
 # Bose QuietComfort 35
 # Convolution: ..\EQs\Bose QuietComfort 35\innerfidelity\Wired - Pasive\Bose QuietComfort 35 (wired, passive) minimum phase 48000Hz.wav
 
+# Apple AirPods Pro
+# Convolution: ..\EQs\Apple AirPods Pro\Apple AirPods Pro minimum phase 48000Hz.wav
+
+# Apple EarPods 
+# Convolution: ..\EQs\Apple EarPods\Apple EarPods minimum phase 48000Hz.wav
+
 # Logitech z623 (http://noaudiophile.com/DSP_Corrections/Logitech_z623.php)
 # Include: ..\EQs\Logitech z623\Logitech_z623_1.txt
 
