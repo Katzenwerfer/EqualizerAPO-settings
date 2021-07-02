@@ -1,7 +1,7 @@
 # Modify the L and R volume balance
 
 # Changing the dB value of separated channels tend to only work in post. Same with EQs.
-Stage: post-mix
+# Stage: post-mix
 
 # Copy channel balance
 # Copy: L=1*L R=1*R
