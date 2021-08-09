@@ -18,9 +18,9 @@ I use HeSuVi in conjunction with HiFi Virtual Cable, ASIO Bridge and ASIO4ALL
 - dtshx-.wav
 
 *Speaker position Adjustment*
-- FL/FR: -30
+- FL/FR: 30
 - SL/SR: 0
-- RL/RR: -30
+- RL/RR: 30
 
 *Volume Adjustment*
 - Master: 75
