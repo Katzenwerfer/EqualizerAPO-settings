@@ -1,0 +1,34 @@
+# Configurations to flat the sound profile of various headphones/speakers. Most use AutoEQ's data.
+
+# EQs tend to generate weird noise in pre-mix
+# Stage: post-mix
+
+# Moondrop Starfield
+# Convolution: ..\EQ\Moondrop Starfield\Minimum phase 48000Hz.wav
+
+# KZ ZSN Pro
+# Convolution: ..\EQ\KZ ZSN Pro\Minimum phase 48000Hz.wav
+
+# Apple EarPods
+# Convolution: ..\EQ\Apple EarPods\Minimum phase 48000Hz.wav
+
+# Apple AirPods Pro
+# Convolution: ..\EQ\Apple AirPods Pro\Minimum phase 48000Hz.wav
+
+# Bose SoundSport Free
+# Convolution: ..\EQ\Bose SoundSport Free\Minimum phase 48000Hz.wav
+
+# Bose QuietComfort 35
+# Convolution: ..\EQ\Bose QuietComfort 35\Minimum phase 48000Hz.wav
+
+# HyperX Cloud Alpha
+# Convolution: ..\EQ\HyperX Cloud Alpha\Minimum phase 48000Hz.wav
+
+# Turtle Beach Elite Pro 2 SuperAmp
+# Convolution: ..\EQ\Turtle Beach Elite Pro 2 SuperAmp\Minimum phase 48000Hz.wav
+
+# Logitech z623
+# Include: ..\EQ\Logitech z623\Logitech_z623_1.txt
+
+# Bose SoundLink Color II
+# Include: ..\EQ\Bose SoundLink Color II\BSLCII.txt
