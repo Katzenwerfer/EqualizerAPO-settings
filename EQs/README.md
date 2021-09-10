@@ -1,4 +1,4 @@
-This folder includes many files from AutoEQ and other sites.
+This folder includes some EQs that are useful for me
 
 The main objective is to store them in a simple way that I can use in conjunction of my other files
 
