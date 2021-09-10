@@ -3,7 +3,6 @@
 # Include: files\flat library.txt
 # Include: files\crossfeed.txt
 # Include: files\balance.txt
-# Include: files\clone library.txt
 
 # Other Settings
 # GraphicEQ: 60 0; 120 6; 250 3; 500 0
