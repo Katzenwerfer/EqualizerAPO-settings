@@ -1,8 +1,8 @@
 # Control
-# Include: files\volume 50.txt
-# Include: files\flat library.txt
-# Include: files\crossfeed.txt
-# Include: files\balance.txt
+# Include: KatzenConfig\Files\Volume 50.txt
+# Include: KatzenConfig\Files\Flat library.txt
+# Include: KatzenConfig\Files\Crossfeed.txt
+# Include: KatzenConfig\Files\Balance.txt
 
 # Other Settings
 # GraphicEQ: 60 0; 120 6; 250 3; 500 0
