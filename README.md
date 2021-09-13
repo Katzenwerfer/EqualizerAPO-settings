@@ -10,7 +10,7 @@ I use Peace to compensate a bit of hearing loss and other stuff that are relativ
 
 # HeSuVi usage
 
-I use HeSuVi in conjunction with HiFi Virtual Cable, ASIO Bridge and ASIO4ALL
+I sometimes use HeSuVi in conjunction with HiFi Virtual Cable, ASIO Bridge and ASIO4ALL
 
 **My preset**
 
