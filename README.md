@@ -42,4 +42,6 @@ I sometimes use HeSuVi in conjunction with HiFi Virtual Cable, ASIO Bridge and A
 
 [ASIO4ALL](https://www.asio4all.org/)
 
+[FlexASIO](https://github.com/dechamps/FlexASIO/) ([GUI](https://github.com/flipswitchingmonkey/FlexASIO_GUI/))
+
 [How to setup the Hi-Fi Cable and ASIO4ALL to work with HeSuVi](https://sourceforge.net/p/hesuvi/discussion/general/thread/ce7c354dd7/)
