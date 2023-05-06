@@ -1,9 +1,5 @@
 # Some crossfeed 'cause why not
 
-# This one is a weird case. Some times it works on pre-mix and some times it doesn't
-# Leave in post-mix just in case
-# Stage: post-mix
-
 # 2.0 to 1.0
 # Copy: L=0.5*L+0.5*R R=0.5*L+0.5*R
 
