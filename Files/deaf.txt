@@ -1,0 +1,4 @@
+# The loudness of headphones when at 100% volume on windows is way too much for my taste.
+# I don't want to use the system slider to make it lower, so this is what I use for that purpose.
+
+Copy: L=0.1*L R=0.1*R
