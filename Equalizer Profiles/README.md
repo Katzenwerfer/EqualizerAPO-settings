@@ -1,5 +1,3 @@
-This folder includes some EQs that are useful for me
+This folder includes some equalizer profiles that I found somewhere or that I made for some devices I have
 
-The main objective is to store them in a simple way that I can use in conjunction of my other files
-
-Auto EQ: https://github.com/jaakkopasanen/AutoEq
+If you want to find a good profile for your own headphones/iems I recommend you check out the [AutoEq project](https://github.com/jaakkopasanen/AutoEq) 
