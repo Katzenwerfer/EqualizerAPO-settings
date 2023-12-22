@@ -1,0 +1,13 @@
+Device: Speaker Only
+# VSTPlugin: Library rnnoise_stereo.dll ChunkData "VkMyIdIAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8Uk5Ob2lzZT48UEFSQU0gaWQ9InZhZF9ncmFjZV9wZXJpb2QiIHZhbHVlPSIxMDAuMCIvPjxQQVJBTSBpZD0idmFkX3JldHJvYWN0aXZlX2dyYWNlX3BlcmlvZCIgdmFsdWU9IjIuMCIvPjxQQVJBTSBpZD0idmFkX3RocmVzaG9sZCIgdmFsdWU9IjAuOTg5OTk5OTQ5OTMyMDk4NCIvPjwvUk5Ob2lzZT4A"
+Device: Headphone Jack Only
+Include: AutoEQ\profiles.txt
+# Include: AutoEQ\inverse.txt
+Preamp: -10 dB
+# Preamp: -10 dB
+# Filter: ON LS Fc 100 Hz Gain 20 dB
+# Copy: L=0.5*L+0.5*R R=0.5*L+0.5*R
+Device: Microphone Only
+VSTPlugin: Library rnnoise_stereo.dll ChunkData "VkMyIdIAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8Uk5Ob2lzZT48UEFSQU0gaWQ9InZhZF9ncmFjZV9wZXJpb2QiIHZhbHVlPSIxMDAuMCIvPjxQQVJBTSBpZD0idmFkX3JldHJvYWN0aXZlX2dyYWNlX3BlcmlvZCIgdmFsdWU9IjIuMCIvPjxQQVJBTSBpZD0idmFkX3RocmVzaG9sZCIgdmFsdWU9IjAuOTg5OTk5OTQ5OTMyMDk4NCIvPjwvUk5Ob2lzZT4A"
+Device: Virtual Audio Cable
+# Include: HeSuVi\hesuvi.txt
